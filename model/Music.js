@@ -13,7 +13,7 @@ const musicSchema = new mongoose.Schema({
     type: "string",
     require: true,
   },
-  LinkMusic: {
+  linkMusic: {
     type: "string",
     require: true,
   },
